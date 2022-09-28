@@ -13,3 +13,5 @@
 - Find out the most significant parameters of project success
 
 Data source was downloaded from https://www.data.gov.uk/ for educational purposes only.
+
+To see more about this analysis, see the link available [here]([https://nodejs.org/](https://medium.com/@tymofii.serhiienko/renewable-energy-uk-projects-success-points-7bf14b97ae7a)).
