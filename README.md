@@ -10,6 +10,6 @@
 - Check if project success is correlated with Region
 - Check if project success is related with Technology Type
 - Check if project success is related with Capacity value
-- Find out the most significant parameters of project success- 
+- Find out the most significant parameters of project success
 
 Data source was downloaded from https://www.data.gov.uk/ for educational purposes only.
