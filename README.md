@@ -2,6 +2,8 @@
 #### Base on the Renewable Energy Planning Database ('REPD') 2022
 [![N](https://github.com/TymofiiS/DataScienceBlogPost_udacity/blob/main/data_gov_uk.png)](https://www.data.gov.uk/)
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_oTc1XxZhh4)
+
 
 ## Goals
 
